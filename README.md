@@ -39,6 +39,6 @@ Basta importar o arquivo database.sql, colocar os arquivos do projeto em um dire
 
 O banco importado contém dois usuários, um com permissão de Administrador e outro Solicitante:
 
-email: administrador@teste.com senha: administrador1
+email: administrador@progest.com senha: administrador1
 
-email: solicitante@teste.com senha: solicitante1
+email: solicitante@progest.com senha: solicitante1
