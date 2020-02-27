@@ -1,5 +1,5 @@
-ProGest - Sistema de Gerenciamento de Materiais em insituições públicas
-Pré requisitos:
+<h3>ProGest - Sistema de Gerenciamento de Materiais em insituições públicas</h3>
+<h4>Pré requisitos:</h4>
 
 -PHP >= 5.4, PHP < 7
 
@@ -15,9 +15,9 @@ Pré requisitos:
 
 -Tokenizer PHP Extension
 
-O progest é um sistema web de código aberto, desenvolvido no Instituto Federal de Educação, Ciência e Tecnologia da Bahia, campus Vitória da Conquista.
+<h4>O progest é um sistema web de código aberto, desenvolvido no Instituto Federal de Educação, Ciência e Tecnologia da Bahia, campus Vitória da Conquista.</h4>
 
-Principais funcoinalidades:
+<h4>Principais funcoinalidades:</h4>
 -Cadastro de servidores, setores, coordenações e fornecedores;
 
 -Cadastro de empenhos de materiais;
@@ -34,7 +34,7 @@ Principais funcoinalidades:
 
 -Relatórios gerenciais: contábil (saldos de entrada e saída por subitem), empenhos, entradas, saídas, situação de fornecedores.
 
-Instalação:
+<h4>Instalação:</h4>
 Basta importar o arquivo database.sql, colocar os arquivos do projeto em um diretório em seu servidor web e rodar o comando "composer install" dentro da pasta do projeto.
 
 O banco importado contém dois usuários, um com permissão de Administrador e outro Solicitante:
