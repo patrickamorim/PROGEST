@@ -1,5 +1,5 @@
 <h3>Atualização ProGest - Sistema de Gerenciamento de Materiais em insituições públicas</h3>
--Realizada no período 2019.2, como base no sistema já criado, que se encontra em: https://github.com/loppesdan/progest;
+-Realizada no período 2019.2, com base no sistema já criado, que se encontra em: https://github.com/loppesdan/progest;
 <h4>Pré requisitos:</h4>
 
 -PHP >= 5.4, PHP < 7
@@ -43,6 +43,8 @@
 -Criação Relatório de consumo por material;
 
 -Criação campo para visualização de devoluções na área do solicitante;
+
+-Correção de demandas para facilitar a navegação e utilização;
 
 <h4>Instalação:</h4>
 Basta importar o arquivo database.sql, colocar os arquivos do projeto em um diretório em seu servidor web e rodar o comando "composer install" dentro da pasta do projeto.
